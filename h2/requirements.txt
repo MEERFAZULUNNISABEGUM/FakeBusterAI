@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+scikit-learn
+pandas
+numpy
+torch
+opencv-python
+python-multipart
+tldextract
